@@ -1,0 +1,28 @@
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=aedcda6e-fe4b-4d10-9e88-9dbfe4ef11f9");
+@font-face {
+    font-family: "Comic Sans";
+    src: url("Fonts/0d67e115-f220-4a6a-81c2-ae0035bda922.eot?#iefix");
+    src: url("Fonts/0d67e115-f220-4a6a-81c2-ae0035bda922.eot?#iefix") format("eot"), url("Fonts/ff6cc82d-621e-4082-abb9-d7e404f23fe0.woff2") format("woff2"), url("Fonts/234c98b8-36ae-45ab-8a55-77980708b2bc.woff") format("woff"), url("Fonts/7ff2970c-1d51-47be-863d-b33afda8fb40.ttf") format("truetype"), url("Fonts/f1afa7d8-abee-4268-9cf8-85d43150fdb1.svg#f1afa7d8-abee-4268-9cf8-85d43150fdb1") format("svg");
+}
+
+@font-face {
+    font-family: "Comic Sans";
+    font-style: italic;
+    src: url("Fonts/eb7f41fa-ee3c-4f09-aecb-0cebb2927414.eot?#iefix");
+    src: url("Fonts/eb7f41fa-ee3c-4f09-aecb-0cebb2927414.eot?#iefix") format("eot"), url("Fonts/b731a0b7-5fc5-410d-8ff5-d16da67ec343.woff2") format("woff2"), url("Fonts/8b5ccd5e-b016-4b08-9ab4-b0dbfa0779f4.woff") format("woff"), url("Fonts/0ba7079a-ab2c-4974-b2db-e46fd3fced17.ttf") format("truetype"), url("Fonts/68d3c6c4-37ff-4ffb-ae0f-072e355acbff.svg#68d3c6c4-37ff-4ffb-ae0f-072e355acbff") format("svg");
+}
+
+@font-face {
+    font-family: "Comic Sans";
+    font-weight: bold;
+    src: url("Fonts/3524031d-17da-4475-b530-26cbe63710bc.eot?#iefix");
+    src: url("Fonts/3524031d-17da-4475-b530-26cbe63710bc.eot?#iefix") format("eot"), url("Fonts/28ad8789-946d-4d93-ac30-0afdf7660fdc.woff2") format("woff2"), url("Fonts/b4c181b9-9e49-4f6b-803b-6fc4a4a9102e.woff") format("woff"), url("Fonts/0c75c211-30c6-44ad-ad6b-29dcd1de11c7.ttf") format("truetype"), url("Fonts/6f70a707-8988-4e4a-8142-47b4dfb70938.svg#6f70a707-8988-4e4a-8142-47b4dfb70938") format("svg");
+}
+
+@font-face {
+    font-family: "Comic Sans";
+    font-weight: bold;
+    font-style: italic;
+    src: url("Fonts/69c0e561-f24b-42fd-a192-128bf26c2953.eot?#iefix");
+    src: url("Fonts/69c0e561-f24b-42fd-a192-128bf26c2953.eot?#iefix") format("eot"), url("Fonts/330deb49-7cb3-45b9-827e-b89c4da0e16e.woff2") format("woff2"), url("Fonts/2e760d8e-a5e1-4fca-b591-2e58a2fea93a.woff") format("woff"), url("Fonts/d3cb3d72-459a-4ccb-85db-4f6a9bcaa5f5.ttf") format("truetype"), url("Fonts/0ba3e4aa-66fa-4757-b3f8-544174ada958.svg#0ba3e4aa-66fa-4757-b3f8-544174ada958") format("svg");
+}
